@@ -12,23 +12,31 @@ Shortly after, I flew back to Boston for several weeks to work with Zoba at the 
 
 At this point, I have been traveling solo in Asia for a month and a half. My travels have taken me to Thailand, China, Vietnam and Singapore. Despite having my phone stolen at Thailand's New Year's water celebration (Songkran) in Bangkok and being scammed by taxi drivers in Saigon, it's been a great experience. I'm currently back in Thailand for a second time and will be continuing with Cambodia, Japan, Taiwan and South Korea over the next four weeks. While I held apprehensions about traveling alone, my experience has been smoother than expected. Hopping from hostel to hostel, you always have the option to meet a variety of people. While I don't click with everybody I meet, I've also met a ton of cool people. Traveling alone, I can also comfortably alternate between hanging out with new friends and setting aside time for myself.
 
-Some of my newfound time has been set aside for books, as I've rediscovered a passion for reading for the first time in many years. Since graduating college, I've read
+Some of that newfound time has been set aside for books, as I've rediscovered a passion for reading for the first time in many years. Since graduating college, I've read
 
 -Fermat’s Enigma
+
 -A Feast for Crows
+
 -The Birth of Korean Cool
+
 -The Violinist’s Thumb
+
 -The Jazz of Physics
+
 -Hitchhiker’s Guide to the Galaxy
+
 -Ready Player One
+
 -A Brief History of Time
+
 -The Name of Wind
+
 -The Fellowship of the Ring
+
 -The Mystery of the Yellow Room
 
 If that doesn't make it clear, I'm a sucker for fantasy. And more recently, I've become interested in physics. While it's crazy how little I read during college, it's only testament to how busy my schedule was. Or how busy I perceived it to be. Looking back, I know that much of my free time during those years was directed towards practicing and writing music.
-
-Anyway, I'm 
 
 Recently, I've also been working on two web apps. One to provide efficient guitar fingerings on midi file input and one to integrate research from my senior thesis to provide live tennis match probability forecasts.
 
