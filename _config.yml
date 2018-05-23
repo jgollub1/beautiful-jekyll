@@ -27,7 +27,7 @@ navbar-links:
   Music:
     - Background: "background"
     - Transcriptions: "transcriptions"
-    - Recordings: "aboutme"
+    - Recommendations: "recommendations"
   Tennis Analytics: "tennis"
     
   Author's home: "http://github.jgollub1.io"
