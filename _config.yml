@@ -25,8 +25,8 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Music:
-    - Background: "music/background"
-    - Transcriptions: "music/transcriptions"
+    - Background: "background"
+    - Transcriptions: "transcriptions"
     - Recordings: ""
   Tennis Analytics: "tennis"
     
