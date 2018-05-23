@@ -21,6 +21,7 @@ Shortly after, I flew back to Boston for several weeks to work with Zoba at the 
 
 
 ![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe2](/img/hello_world.jpeg)
 
 
 ![](/img/igloo.jpg)
