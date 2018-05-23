@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Transcriptions
+title: transcriptions
 ---
 
 Musical transcription is the process of translating sounds into notation. The process involves taking a recording you like and figuring out what's going on with your ears and instrument. Over the past few years, I have found it extremely gratifying to return to tunes I've listened to for years and produced lead sheets for them. The journey continues...
