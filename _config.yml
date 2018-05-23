@@ -24,8 +24,10 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Music:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Transcriptions: "transcriptions"
+    - Recordings: ""
     
   Author's home: "http://jacobgollub.me"
 
