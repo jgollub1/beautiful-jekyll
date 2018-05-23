@@ -20,7 +20,7 @@ Shortly after, I flew back to Boston for several weeks to work with Zoba at the 
 <img src="hello_world.jpg" alt="Flowers in Chania">
 
 
-
+![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 
 ![](/img/igloo.jpg)
