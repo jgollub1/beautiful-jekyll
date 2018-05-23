@@ -12,6 +12,11 @@ Shortly after, I flew back to Boston for several weeks to work with Zoba at the 
 
 
 <img src="img/songkran.jpg" alt="Flowers in Chania">
+<img src="/img/songkran.jpg" alt="Flowers in Chania">
+<img src="../img/songkran.jpg" alt="Flowers in Chania">
+
+
+
 
 ![](/img/igloo.jpg)
 With hometown homies in Dunkirk, NY celebrating in front of the igloo we built (march '18)
