@@ -23,7 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "transcriptions"
+  About Me: "aboutme"
   Music:
     - Background: "background"
     - Transcriptions: "transcriptions"
