@@ -10,9 +10,6 @@ I played guitar in Harvard's Monday Jazz Band for two years under Don Braden and
 In 2016, I was very fortunate to receive Harvard's Artist Development Fellowship to attend the Banff International Workshop in Jazz and Creative Music. You can listen to several recordings of my compositions from the workshop below.
 
 Follow Your Instincts
-[Link](https://soundcloud.com/jacobgollub/follow-your-instincts-banff-16)
-
-[[Soundcloud url="https://soundcloud.com/jacobgollub/follow-your-instincts-banff-16"]]
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/448114953&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
