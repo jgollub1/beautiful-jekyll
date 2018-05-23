@@ -10,7 +10,8 @@ These past five months, I've somewhat enjoyed a second "gap" semester. After tak
 
 Shortly after, I flew back to Boston for several weeks to work with Zoba at the Harvard i-lab and ship my belongings back home (which I had left under my roommates' beds). Zoba is an early-stage startup working on crime prediction with crowd-sourced geospatial data and working with the guys was pretty fun. Any time you join a company with only a handful of people, you get to have massive influence over everything you work on and I would be surprised if I don't seek such an opportunity sometime down the road. After catching up with friends in Boston, I visited a handful of friends across the country. All in all, I saw friends and family in Manhattan, Dunkirk NY, Salt Lake City UT, Boulder CO and Seattle WA. A week after passover sedar in Seattle with relatives, I set off to Asia.
 
-![](sing_pore.jpg)
+
+<img src="img/songkran.jpg" alt="Flowers in Chania">
 
 ![](/img/igloo.jpg)
 With hometown homies in Dunkirk, NY celebrating in front of the igloo we built (march '18)
