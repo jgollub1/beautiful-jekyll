@@ -14,6 +14,8 @@ Shortly after, I flew back to Boston for several weeks to work with Zoba at the 
 <img src="img/songkran.jpg" alt="Flowers in Chania">
 <img src="/img/songkran.jpg" alt="Flowers in Chania">
 <img src="../img/songkran.jpg" alt="Flowers in Chania">
+<img src="/img/hello_world.jpg" alt="Flowers in Chania">
+<img src="../img/hello_world.jpg" alt="Flowers in Chania">
 
 
 
