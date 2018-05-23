@@ -10,7 +10,15 @@ These past five months, I've somewhat enjoyed a second "gap" semester. After tak
 
 Shortly after, I flew back to Boston for several weeks to work with Zoba at the Harvard i-lab and ship my belongings back home (which I had left under my roommates' beds). Zoba is an early-stage startup working on crime prediction with crowd-sourced geospatial data and working with the guys was pretty fun. Any time you join a company with only a handful of people, you get to have massive influence over everything you work on and I would be surprised if I don't seek such an opportunity sometime down the road. After catching up with friends in Boston, I visited a handful of friends across the country. All in all, I saw friends and family in Manhattan, Dunkirk NY, Salt Lake City UT, Boulder CO and Seattle WA. A week after passover sedar in Seattle with relatives, I set off to Asia.
 
+
+![igloo](img/igloo.jpg)
+With hometown homies in Dunkirk, NY celebrating in front of the igloo we built (march '18)
+
 At this point, I have been traveling solo in Asia for a month and a half. My travels have taken me to Thailand, China, Vietnam and Singapore. Despite having my phone stolen at Thailand's New Year's water celebration (Songkran) in Bangkok and being scammed by taxi drivers in Saigon, it's been a great experience. I'm currently back in Thailand for a second time and will be continuing with Cambodia, Japan, Taiwan and South Korea over the next four weeks. While I held apprehensions about traveling alone, my experience has been smoother than expected. Hopping from hostel to hostel, you always have the option to meet a variety of people. While I don't click with everybody I meet, I've also met a ton of cool people. Traveling alone, I can also comfortably alternate between hanging out with new friends and setting aside time for myself.
+
+
+![songkran](img/songkran.jpg)
+Songkran '18 with fellow backpackers, shortly before getting my phone snatched
 
 Some of that newfound time has been set aside for books, as I've rediscovered a passion for reading for the first time in many years. Since graduating college, I've read
 
@@ -38,7 +46,7 @@ Some of that newfound time has been set aside for books, as I've rediscovered a 
 
 If that doesn't make it clear, I'm a sucker for fantasy. And more recently, I've become interested in physics. While it's crazy how little I read during college, it's only testament to how busy my schedule was. Or how busy I perceived it to be. Looking back, I know that much of my free time during those years was directed towards practicing and writing music.
 
-Recently, I've also been working on two web apps. One to provide efficient guitar fingerings on midi file input and one to integrate research from my senior thesis to provide live tennis match probability forecasts.
+Recently, I've also been working on two web apps. One to provide efficient guitar fingerings for melodies with midi file input and another to integrate research from my senior thesis and provide live tennis match probability forecasts. Things are going a little slowly because I have no experience building web apps but I can figure it out. I mean, hey, I just completed a degree in computer science four years after receiving an atrocious grade in "intro to computer science." Once I finish these, you'll be able to check them out on this website and I know those two projects must sound really exciting to the majority of people.
 
 
 

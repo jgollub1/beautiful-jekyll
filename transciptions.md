@@ -3,7 +3,7 @@ layout: page
 title: Transcriptions
 ---
 
-Musical transcription is the process of translating sounds into notation. It involves taking a recording you like and figuring out what's going on with nothing but your ears and instrument. Over the past few years, I have found it extremely gratifying to return to tunes I've listened to for years and produced lead sheets for them. The journey continues...
+Musical transcription is the process of translating sounds into notation. It involves taking a recording you like and figuring out what's going on with nothing but your ears and instrument. Over the past few years, I have found enjoyed returning to tunes I've listened to for years and producing lead sheets for them. It's a big effort, but you learn more about music and yourself each time. The journey continues...
 
 Microcosm for Two (Jonathan Kreisberg)
 Link C Bb
