@@ -4,7 +4,7 @@ title: First post!
 image: /img/hello_world.jpeg
 ---
 
-I'm currently writing from Krabi Ao Nang, Thailand with a 10-bed hostel dorm all to myself. What more could you ask for? I've been meaning to set up this website for some time in order to organize recent thoughts and ideas. 
+I'm currently writing from Krabi Ao Nang, Thailand with a 10-bed hostel dorm all to myself. What more could you ask for? I've been meaning to set up this website for some time to organize recent thoughts and ideas. 
 
 ![railay](/img/railay.jpg)
 Railay Beach looking great on google images
