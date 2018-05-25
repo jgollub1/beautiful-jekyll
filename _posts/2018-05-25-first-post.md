@@ -51,7 +51,6 @@ If it's not clear, I'm a sucker for fantasy. Of those, "The Name of Wind" stood 
 
 Recently, I've also been working on a couple personal projects which may or may not show up on this website sometime soon. In the meantime, I'll catch a little more Thailand sun.
 
-
 <!-- Recently, I've also been trying to make web apps out of a couple personal projects. One to help you learn melodies more efficiently on guitar and another to integrate research from my senior thesis and provide live tennis match forecasts. Maybe mentioning this will motivate me to finish them sometime soon. In the meantime, I'll catch a little more Thailand sun. -->
 
 <!-- I mean, hey, I just completed a degree in computer science four years after receiving an atrocious grade in "intro to computer science." Anyway, I know these two projects must sound really exciting to most people and you'll be able to check them out on this site once they're ready. -->
