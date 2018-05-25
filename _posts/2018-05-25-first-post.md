@@ -7,7 +7,7 @@ image: /img/hello_world.jpeg
 I'm currently writing from Krabi Ao Nang, Thailand with a 10-bed hostel dorm all to myself. What more could you ask for? I've been meaning to set up this website for some time to organize recent thoughts and ideas. 
 
 ![railay](/img/railay.jpg)
-Railay Beach looking great on google images
+Railay Beach looking great on google images despite the overcast week
 
 These past five months, I've enjoyed a second "gap" semester. After taking a semester off from college in spring '16 to work/chill in New York, I finally graduated college in December '17. Keeping calm under every Ivy League student's nightmare of graduating unemployed, I was fortunate enough to finish my job search by early February, when I decided to join Blend as a software engineer. Thinking longingly back to my previous semester off, I couldn't help but request to start in the summer, allotting myself another five months to do as I please.
 
