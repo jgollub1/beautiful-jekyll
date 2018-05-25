@@ -49,7 +49,7 @@ Some of that newfound time has been set aside for books, as I've rediscovered a 
 
 If it's not clear, I'm a sucker for fantasy. Of those, "The Name of Wind" stood out because it features a protagonist who is a performer at heart. Having grown up as an actor in a traveling troupe, Kvothe uses his silver tongue to slip out of unsavory circumstances and plays the lute well enough to bring his audience to tears. And more recently, I've become interested in physics. Stephon Alexander's journey towards becoming a physics professor while repeatedly turning back to music as his compass in "The Jazz of Physics" reminded me of multiple classmates from college. While it's crazy how little I read during college, it's only testament to how busy my schedule was. Or how busy I perceived it to be. Looking back, I know that much of my free time during those years was directed towards practicing and writing music.
 
-Recently, I've also been trying to make web apps out of a couple personal projects. One to help you learn melodies more efficiently on guitar and another to integrate research from my senior thesis and provide live tennis match probability forecasts. Maybe mentioning this will motivate me to finish them sometime soon. In the meantime, thanks for reading and I'll catch a little more Thailand sun.
+Recently, I've also been trying to make web apps out of a couple personal projects. One to help you learn melodies more efficiently on guitar and another to integrate research from my senior thesis and provide live tennis match forecasts. Maybe mentioning this will motivate me to finish them sometime soon. In the meantime, I'll catch a little more Thailand sun.
 
 
 
