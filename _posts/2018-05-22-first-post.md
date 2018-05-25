@@ -18,7 +18,7 @@ At this point, I have been traveling solo in Asia for a month and a half. My tra
 
 
 ![songkran](/img/songkran.jpg)
-Songkran '18 with fellow backpackers, shortly before getting my phone snatched in the Khaosan Road mosh pit
+Songkran '18 with fellow backpackers, shortly before getting my phone snatched
 
 Some of that newfound time has been set aside for books, as I've rediscovered a passion for reading for the first time in many years. Since graduating college, I've read
 

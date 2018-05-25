@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+<!-- subtitle: Why you'd want to go on a date with me -->
 ---
 
 I was born and raised in Santa Rosa, CA. Since starting college, I've lived in Boston, Buenos Aires, Kyoto, New York, Philadelphia, and Tokyo.
