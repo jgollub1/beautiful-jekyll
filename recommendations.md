@@ -12,3 +12,9 @@ Maxo is one of several electronic artists I've found on soundcloud who is making
 Check out Gilad Hekselman's counterpoint melody in "Verona"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/edmakUKp0TA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Earlier this year, I discovered SWV, a girl band from the 90s. Wish some of today's pop artists sounded like them,
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7S2quCoO880" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
