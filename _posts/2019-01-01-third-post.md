@@ -9,9 +9,7 @@ A recap of the past year.
 **Top 2 Achievements:**
 
 1) Traveled solo through Asia - Hit eight countries over the course of two and a half months (Thailand, China, Vietname, Singapore, Cambodia, Japan, Taiwan, South Korea).<br>
-<!-- 2) Benched a plate - While finding a job was pretty satisfying, this was more years in the making. -->
-<!-- moved to the SF Mission. In addition to biking to work at a tech company, I'm about one third of the way done complete with a transformation toward shameless SF hipster (obvious next steps would include drinking organic juice daily...). -->
-2) Moved to SF Mission - While I bike to work at a tech company now, at least I'm not so much of the gentrification problem as to buy organic vegetable juice every day.
+2) Moved to SF Mission - While I bike to work at a tech company every day, at least I'm not so much of the gentrification problem as to buy organic vegetable juice every day.
 
 **Top 2 Books (Lifestyle):**
 
