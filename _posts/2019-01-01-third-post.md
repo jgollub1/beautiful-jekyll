@@ -19,7 +19,7 @@ A recap of the past year.
 **Top 2 Books (Entertainment):**
 
 1) Bullshit Jobs - 10 minutes into reading this at City Lights Bookstore, I was sold. Speaks to deep-rooted social issues many of us take for granted.<br>
-2) Elon Musk - I love witnessing passion so I naturally enjoyed hearing Elon's story. For more recent entertainment in this vein, check out his twitter page.
+2) Elon Musk - Time after time, Elon carries out his vision with incredible conviction, trash-talking both employees and competitors along the way. He's got an incredible story as well.
 
 **Top 2 Podcasts:**
 
@@ -63,8 +63,8 @@ A recap of the past year.
 
 **Top 2 Side Projects:**
 
-1) Built a web app that plays .midi files on guitar.<br>
-2) This website.
+1) Built a <a href="https://github.com/jgollub1/guitar_dp">web app</a> that plays .midi files on guitar. I will demo it soon.<br>
+2) <a href="http://gollub.me">This website</a>
 
 **Top 2 new programming languages/technologies:**
 
@@ -74,9 +74,9 @@ A recap of the past year.
 **Top 2 Photos of me squatting in Asia (aka my only insta posts):**
 
 1)<br>
-<img src="/img/siem_reap.jpg" width="320"><br>
+<img src="/img/siem_reap.jpg" width="270"><br>
 2)<br>
-<img src="/img/deer.jpg" width="320">
+<img src="/img/deer.jpg" width="270">
 
 <!-- **Top 2 Sporting Events:**
 
