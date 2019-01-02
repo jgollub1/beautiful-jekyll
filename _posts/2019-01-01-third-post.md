@@ -18,7 +18,7 @@ A recap of the past year.
 
 **Top 2 Books (Entertainment):**
 
-1) Bullshit Jobs - 10 minutes into reading this at City Lights Bookstore, I was sold. Speaks to deep-rooted social issues many of us take for granted.<br>
+1) Bullshit Jobs - 10 minutes into reading this at City Lights, I was sold. Explores some deep-rooted social issues many of us take for granted.<br>
 2) Elon Musk - Time after time, Elon carries out his vision with incredible conviction, trash-talking both employees and competitors along the way. He's got an incredible story as well.
 
 **Top 2 Podcasts:**
@@ -34,7 +34,7 @@ A recap of the past year.
 **Top 2 Albums:**
 
 1) Skyriser (Maxo) - Recent album by an electronic artist I discovered on Soundcloud. His harmonic palette is just perfect.<br>
-2) Ask For Chaos (Gilad Hekselman) - Didn't check out that many new albums this year, but this one stood out
+2) Ask For Chaos (Gilad Hekselman) - Didn't check out that many new albums this year, but this one was a standout.
 
 **Top 2 TV Shows:**
 
