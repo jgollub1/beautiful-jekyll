@@ -43,7 +43,7 @@ A recap of the past year.
 
 **Top 2 New Countries Visited:**
 
-1) Taiwan - "Taiwan number one" https://www.youtube.com/watch?v=xN0vUlljX0I<br>
+1) Taiwan - <a href="https://www.youtube.com/watch?v=xN0vUlljX0I">"Taiwan number one"</a><br>
 2) Cambodia - The food was amazing and you can take touristy photos at all the temples with a "Tomb Raider" backdrop.
 
 **Top 2 Hostels:**
