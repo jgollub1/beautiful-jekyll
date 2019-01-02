@@ -63,7 +63,7 @@ A recap of the past year.
 
 **Top 2 Side Projects:**
 
-1) Built a <a href="https://github.com/jgollub1/guitar_dp">web app</a> that plays .midi files on guitar. I will demo it soon.<br>
+1) Built a <a href="https://github.com/jgollub1/guitar_dp">web app</a> that plays midi files on guitar. I will demo it soon.<br>
 2) <a href="http://gollub.me">This website</a>
 
 **Top 2 new programming languages/technologies:**
@@ -78,8 +78,8 @@ A recap of the past year.
 2)<br>
 <img src="/img/deer.jpg" width="270">
 
-<!-- **Top 2 Sporting Events:**
+**Top 2 Sporting Events:**
 
 1) US Open day 1 🎾<br>
-2) US Open day 2 🎾🎾 -->
+2) US Open day 2 🎾🎾
 
