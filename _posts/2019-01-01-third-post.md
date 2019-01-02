@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2018 in Review
-image: /img/hello_world.jpeg
+image: /img/reflection.jpg
 ---
 
 A recap of the past year.
